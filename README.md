@@ -1,6 +1,6 @@
 # Raftelis-Project
 ## Overview of Project
-This project was designed to be scalable, such that if new data were appended to the text file, or new columns of data were added, little to no changes would need to be made to the code to visualize them.
+This project was designed to be scalable, such that if new data were appended to the text file, then little to no changes would need to be made to the code to visualize them.
 Below is a listing of the main files of the program, and briefly what each does.
 ### Program.cs
 This file is the driver of the program. It parses the `Parcels.txt` file and creates an HTML file to visualize the data cleanly.
